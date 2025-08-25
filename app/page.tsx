@@ -32,7 +32,7 @@ export default function ComingSoon() {
             <span className="text-2xl font-bold text-foreground">A</span>
           </div>
           <h1 className="text-5xl md:text-7xl font-bold bg-gradient-to-r from-foreground to-foreground/70 bg-clip-text text-transparent">
-            Coming Soon
+            Coming Soon!
           </h1>
         </div>
 
