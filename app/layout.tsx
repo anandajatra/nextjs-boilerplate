@@ -15,8 +15,8 @@ const marcellusSC = Marcellus_SC({
 });
 
 export const metadata: Metadata = {
-  title: "ANANDAJATRA - Creative Advertising Agency",
-  description: "You focus on your product, we make sure the world sees it right. Professional advertising and creative services.",
+  title: "Ananda Jatra - Creative Solutions",
+  description: "Where imagination fuels every journey. We craft stories, build experiences, and bring ideas to life through digital marketing, photography, events, activations and art.",
 };
 
 export default function RootLayout({
